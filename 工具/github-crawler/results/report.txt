@@ -1,0 +1,605 @@
+======================================================================
+GitHub 未完成專案搜尋報告
+搜尋時間: 2026-03-15 09:22
+總共找到: 207 個專案
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+#1 | 潛力分數: 100
+名稱: freshenv
+網址: https://github.com/raiyanyahya/freshenv
+說明: 🥗 Provision, share, manage local and cloud developer environments.
+星星: 174 | Fork: 2 | Issues: 5
+語言: Python | 大小: 173KB
+建立: 2021-12-19 | 最後更新: 2024-09-30
+標籤: cli, command-line, developer-tools, docker, productivity
+已封存: 否
+README:  [![Actions Status](https://github.com/raiyanyahya/freshenv/workflows/Build%20Test/badge.svg)](https://github.com/raiyanyahya/freshenv/actions) [![Actions Status](https://github.com/raiyanyahya/freshenv/workflows/Package%20Release/badge.svg)](https://github.com/raiyanyahya/freshenv/actions) [![Actio...
+
+──────────────────────────────────────────────────────────────────────
+#2 | 潛力分數: 100
+名稱: MacPilot
+網址: https://github.com/adeelahmad/MacPilot
+說明: 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. N
+星星: 84 | Fork: 9 | Issues: 1
+語言: Python | 大小: 1575KB
+建立: 2024-11-25 | 最後更新: 2024-11-26
+標籤: agent, agi, ai, artificial-intelligence, automation
+已封存: 否
+README: # 🤖 MacPilot - Advanced macOS UI Automation Framework  <div align="center">  [![GitHub stars](https://img.shields.io/github/stars/adeelahmad/macpilot?style=social)](https://github.com/adeelahmad/macpilot/stargazers) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](...
+
+──────────────────────────────────────────────────────────────────────
+#3 | 潛力分數: 95
+名稱: lego-ai-parser
+網址: https://github.com/serpapi/lego-ai-parser
+說明: Lego AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements
+星星: 239 | Fork: 15 | Issues: 5
+語言: Python | 大小: 204KB
+建立: 2022-12-07 | 最後更新: 2024-06-10
+標籤: ai, artificial-intelligence, classification, datascience, gpt-3
+已封存: 是
+README: <h1 align="center">Lego AI Parser</h1>  <div align="center">    <a href="">[![Build status][Build-shield]][Build-url] </a>   <a href="">[![Contributors][contributors-shield]][contributors-url] </a>   <a href="">[![Forks][forks-shield]][forks-url]</a>   <a href="">[![Stargazers][stars-shield]][stars-...
+
+──────────────────────────────────────────────────────────────────────
+#4 | 潛力分數: 95
+名稱: Email-extractor
+網址: https://github.com/DiegoCaraballo/Email-extractor
+說明: The main functionality is to extract all the emails from one or several URLs - La funcionalidad prin
+星星: 195 | Fork: 78 | Issues: 12
+語言: Python | 大小: 116KB
+建立: 2018-02-07 | 最後更新: 2025-02-21
+標籤: email, email-extractor, email-marketing, emails, extraction
+已封存: 否
+README: <p align="center">   <img width="560" height="400" src="https://github.com/DiegoCaraballo/Email-extractor/blob/master/EmailExtractor.PNG"> </p>  # Add Feature: 13-07-2022 - You can save the mailing list in a .csv file  # Fix: 13-09-2019 - Fix - The script was pasted when searching for phrases on Goo...
+
+──────────────────────────────────────────────────────────────────────
+#5 | 潛力分數: 95
+名稱: arguably
+網址: https://github.com/treykeown/arguably
+說明: The best Python CLI library, arguably.
+星星: 417 | Fork: 7 | Issues: 14
+語言: Python | 大小: 3682KB
+建立: 2023-06-05 | 最後更新: 2024-05-10
+標籤: cli, command-line, python, python3
+已封存: 否
+README: <p align="center">     <picture>       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/treykeown/arguably/main/etc/logo/arguably_white.png">       <img alt="arguably logo" src="https://raw.githubusercontent.com/treykeown/arguably/main/etc/logo/arguably_black.pn...
+
+──────────────────────────────────────────────────────────────────────
+#6 | 潛力分數: 95
+名稱: gay
+網址: https://github.com/ms-jpq/gay
+說明: Colour your text / terminal to be more gay. 🏳️‍🌈
+星星: 339 | Fork: 16 | Issues: 12
+語言: Python | 大小: 2386KB
+建立: 2020-06-30 | 最後更新: 2024-10-15
+標籤: asexual, bisexual, cli, gay, gay-pride
+已封存: 否
+README: # [GAY 🏳️‍🌈](https://ms-jpq.github.io/gay)  Colour your text / terminal to be more gay.  Gayer version of [`lolcat`](https://github.com/busyloop/lolcat)  ## [Get Gay](https://pypi.org/project/gay)  `pip3 install -U gay`  ## Show me  ### Text  ```sh echo 'message' | gay ```  ![help.png](https://raw.g...
+
+──────────────────────────────────────────────────────────────────────
+#7 | 潛力分數: 95
+名稱: pair
+網址: https://github.com/jiggy-ai/pair
+說明: REPL environment for GPT pair programming
+星星: 242 | Fork: 17 | Issues: 4
+語言: Python | 大小: 4058KB
+建立: 2023-03-20 | 最後更新: 2024-09-29
+標籤: chatgpt, cli, gpt-3, gpt-4, gpt4
+已封存: 否
+README: # PAIR (Pair AI REPL)  PAIR is an AI-powered coding assistance REPL that pairs GPT-4 with you the developer to augment the best of both human and AI intelligence. It provides an interactive environment where users can input existing code, ask questions about the code or other open source projects or...
+
+──────────────────────────────────────────────────────────────────────
+#8 | 潛力分數: 95
+名稱: pyimgscan
+網址: https://github.com/sammdu/pyimgscan
+說明: Take any phone-taken picture and turn it into a document scan.
+星星: 96 | Fork: 15 | Issues: 1
+語言: Python | 大小: 9986KB
+建立: 2019-03-05 | 最後更新: 2024-08-30
+標籤: image-processing, opencv, perspective-correction, perspective-transform, productivity
+已封存: 否
+README: # pyimgscan: open-source document scanning tool ![MIT License](https://img.shields.io/badge/LICENSE-MIT-brightgreen.svg?style=for-the-badge)  ### Take a picture with your phone and convert it to a professional-looking scan.  <p align="center"><img src="readme/diagram.png" width="80%" height="80%"/><...
+
+──────────────────────────────────────────────────────────────────────
+#9 | 潛力分數: 90
+名稱: polymorph
+網址: https://github.com/shramos/polymorph
+說明: Polymorph is a real-time network packet manipulation framework with support for almost all existing 
+星星: 495 | Fork: 62 | Issues: 17
+語言: Python | 大小: 3078KB
+建立: 2017-11-21 | 最後更新: 2025-02-10
+標籤: air, crafting, framework, intercept, manipulation
+已封存: 否
+README: # Polymorph  Polymorph is a tool that facilitates the modification of network traffic on the fly by allowing the execution of Python code on network packets that are intercepted in real time.  This framework can be used to modify in real time network packets that implement any publicly specified net...
+
+──────────────────────────────────────────────────────────────────────
+#10 | 潛力分數: 90
+名稱: getaltname
+網址: https://github.com/franccesco/getaltname
+說明: Extract subdomains from SSL certificates in HTTPS sites.
+星星: 389 | Fork: 69 | Issues: 5
+語言: Python | 大小: 584KB
+建立: 2017-11-13 | 最後更新: 2025-03-03
+標籤: certificates, discovery, dns, extract-subdomains, https
+已封存: 否
+README: # GSAN - Get Subject Alternative Names  **GSAN** is a tool that can extract [Subject Alternative Names](https://en.wikipedia.org/wiki/Subject_Alternative_Name) (SAN) found in SSL Certificates directly from https servers which can provide you with DNS names (subdomains) or virtual servers.  It doesn'...
+
+──────────────────────────────────────────────────────────────────────
+#11 | 潛力分數: 90
+名稱: YandexMail-Account-Creator
+網址: https://github.com/hendrikbgr/YandexMail-Account-Creator
+說明: 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+星星: 484 | Fork: 128 | Issues: 4
+語言: Python | 大小: 2022KB
+建立: 2019-10-24 | 最後更新: 2025-01-07
+標籤: account-creator, account-generator, bot, email, email-bot
+已封存: 否
+README: <div align="center">   <h3>Proxy-Pool-API | Used by this Repo</h3>   <br>   <a href="https://proxy-pool-api.onrender.com" target="_blank">     <img src="proxy.gif" alt="alt text" width="2000px">   </a>   <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects.</...
+
+──────────────────────────────────────────────────────────────────────
+#12 | 潛力分數: 90
+名稱: AutoAnimeMv
+網址: https://github.com/AutoAnimeMV-Teams/AutoAnimeMv
+說明: 😊这是一个番剧自动识别剧名剧集+自动重命名+自动整理工具,用来配合QBittorrent实现Rss订阅下载全自动刮削一条龙到家式爽歪歪服务!
+星星: 476 | Fork: 21 | Issues: 5
+語言: Python | 大小: 3134KB
+建立: 2023-04-12 | 最後更新: 2024-08-07
+標籤: automation, linux, nas, python3, qbittorrent
+已封存: 否
+README: # **| AutoAnimeMV:超轻量化快速部署看番遥遥领先!** <div align="center">   <a href="https://github.com/Abcuders/AutoAnimeMV">     <img src="./Image/logo.png">   </a>  **`全自动追番新时代！不动手才是硬道理！`**   **简体中文 | [English](./README_en.md)**  `最后更新时间：2024.6.26-0839`  [![ GitHub 开源许可证](https://img.shields.io/github/license/Abc...
+
+──────────────────────────────────────────────────────────────────────
+#13 | 潛力分數: 90
+名稱: DC3-MWCP
+網址: https://github.com/dod-cyber-crime-center/DC3-MWCP
+說明: DC3 Malware Configuration Parser (DC3-MWCP) is a framework for parsing configuration information fro
+星星: 340 | Fork: 65 | Issues: 6
+語言: Python | 大小: 881KB
+建立: 2015-05-06 | 最後更新: 2025-02-07
+標籤: automation, config-dump, framework, malware-analysis, malware-automation
+已封存: 否
+README: # DC3-MWCP  [Changelog](CHANGELOG.md) | [Releases](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP/releases)  DC3 Malware Configuration Parser (DC3-MWCP) is a framework for parsing configuration information from malware. The information extracted from malware includes items such as addresses,...
+
+──────────────────────────────────────────────────────────────────────
+#14 | 潛力分數: 90
+名稱: marple
+網址: https://github.com/soxoj/marple
+說明: 📖 Collect links to profiles by username through search engines and analyze with various plugins
+星星: 291 | Fork: 23 | Issues: 12
+語言: Python | 大小: 127KB
+建立: 2021-11-16 | 最後更新: 2024-11-24
+標籤: namecheck, namechecker, osint, scraper, search-engine
+已封存: 否
+README: # Marple  **Collect links to profiles by username through 10+ search engines ([see the full list below](#supported-sources)).**  <img src="https://github.com/user-attachments/assets/b8d64e54-56fa-4805-b1ab-ff39ebead753" height="300"/>  *Idea by [Cyber Detective](https://cybdetective.com/)*  Features...
+
+──────────────────────────────────────────────────────────────────────
+#15 | 潛力分數: 90
+名稱: linkedIn-scraper
+網址: https://github.com/ManiMozaffar/linkedIn-scraper
+說明: A playwright bot which is implemented to scrape linkedin and store advertisement data in a database 
+星星: 267 | Fork: 27 | Issues: 3
+語言: Python | 大小: 137KB
+建立: 2023-04-13 | 最後更新: 2024-04-05
+標籤: bot, browser-fingerprint, browser-fingerprinting, chatgpt, chatgpt-api
+已封存: 否
+README: # Playwright-LinkedIn-Scraper   ## Table Of Contents - [Overview](#overview) - [Community](#community) - [Features](#features) - [How To Use](#how-to-use) - [Installation](#installation) - [Requirements](#requirements) - [License](#license) - [Support and Contributions](#support-and-contributions) -...
+
+──────────────────────────────────────────────────────────────────────
+#16 | 潛力分數: 90
+名稱: wayback-google-analytics
+網址: https://github.com/bellingcat/wayback-google-analytics
+說明: A lightweight tool for scraping current and historic Google Analytics data
+星星: 233 | Fork: 25 | Issues: 5
+語言: Python | 大小: 312KB
+建立: 2023-09-15 | 最後更新: 2024-08-21
+標籤: command-line, google-analytics, open-source-research, python, scraper
+已封存: 否
+README:  <a name="readme-top"></a>  [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]  <!-- PR...
+
+──────────────────────────────────────────────────────────────────────
+#17 | 潛力分數: 90
+名稱: scraper
+網址: https://github.com/Crinibus/scraper
+說明: Web scraper for scraping, tracking and visualizing prices of products on various websites.
+星星: 228 | Fork: 44 | Issues: 8
+語言: Python | 大小: 2233KB
+建立: 2020-06-07 | 最後更新: 2025-01-29
+標籤: amazon, avcables, computersalg, coolshop, ebay
+已封存: 否
+README: # Table of contents - [Intro](#intro) - [Contributing](#contributing) - [Installation](#installation) - [Add products](#add-products)     - [Websites to scrape from](#websites-to-scrape-from) - [Scrape products](#scrape-products) - [Delete data](#delete-data) - [User settings](#user-settings) - [Cle...
+
+──────────────────────────────────────────────────────────────────────
+#18 | 潛力分數: 90
+名稱: Botflix
+網址: https://github.com/lkabuci/Botflix
+說明: 🎥 Stream your favorite movie from the terminal!
+星星: 422 | Fork: 25 | Issues: 4
+語言: Python | 大小: 1133KB
+建立: 2021-12-30 | 最後更新: 2024-09-11
+標籤: cli, movie, movies, mpv, nodejs
+已封存: 是
+README: <div align="center" style="background-color: #ffcccc; border: 2px solid #ff0000; padding: 15px; margin: 20px 0; border-radius: 5px;">   <h2 style="color: #ff0000; text-align: center; margin-top: 0;">⚠️ REPOSITORY ARCHIVED ⚠️</h2>   <p style="font-size: 16px; text-align: center;">     This repository...
+
+──────────────────────────────────────────────────────────────────────
+#19 | 潛力分數: 90
+名稱: git-archive-all
+網址: https://github.com/Kentzo/git-archive-all
+說明: A python script wrapper for git-archive that archives a git superproject and its submodules, if it h
+星星: 399 | Fork: 80 | Issues: 11
+語言: Python | 大小: 208KB
+建立: 2010-10-03 | 最後更新: 2025-01-13
+標籤: archive, cli, git, python, submodule
+已封存: 否
+README: | |pypi| |homebrew| | |implementations| |versions| | |travis| |coverage|  .. |pypi| image:: https://img.shields.io/pypi/v/git-archive-all.svg     :target: https://pypi.python.org/pypi/git-archive-all     :alt: PyPI .. |homebrew| image:: https://img.shields.io/homebrew/v/git-archive-all.svg     :targ...
+
+──────────────────────────────────────────────────────────────────────
+#20 | 潛力分數: 90
+名稱: sspipe
+網址: https://github.com/sspipe/sspipe
+說明: Simple Smart Pipe: python productivity-tool for rapid data manipulation
+星星: 154 | Fork: 6 | Issues: 4
+語言: Python | 大小: 55KB
+建立: 2018-06-17 | 最後更新: 2022-05-29
+標籤: data-science, dplyr, functional-programming, magrittr, numpy
+已封存: 否
+README: <img src="https://sspipe.github.io/img/icon.png" width="120" align="right"/>  [![Downloads](http://pepy.tech/badge/sspipe)](http://pepy.tech/project/sspipe) [![Build Status](https://circleci.com/gh/sspipe/sspipe.svg?style=svg)](https://app.circleci.com/pipelines/github/sspipe/sspipe) [![PyPI](https:...
+
+──────────────────────────────────────────────────────────────────────
+#21 | 潛力分數: 85
+名稱: MinerU-webui
+網址: https://github.com/liuhuapiaoyuan/MinerU-webui
+說明: MinerU是一款开源的高质量PDF解析工具，基于深度学习技术，可自动提取PDF文档中的文字、表格、图片、公式等内容，并提供丰富的分析、统计、搜索等功能。 本项目为其提供一个简化版本的WebUI，方便
+星星: 300 | Fork: 41 | Issues: 5
+語言: Python | 大小: 1045KB
+建立: 2024-09-08 | 最後更新: 2024-12-03
+標籤: 無
+已封存: 否
+README:   <div align="center" xmlns="http://www.w3.org/1999/html"> <!-- logo --> <p align="center">   <img src="doc/mineru.png" width="300px" style="vertical-align:middle;"> </p>  <!-- hot link -->  <p align="center"> <a href="https://github.com/opendatalab/PDF-Extract-Kit">PDF-Extract-Kit: High-Qu...
+
+──────────────────────────────────────────────────────────────────────
+#22 | 潛力分數: 85
+名稱: the-secret-bit
+網址: https://github.com/bit-orbit/the-secret-bit
+說明: کتاب متن باز فارسی لینوکس the secret bit
+星星: 300 | Fork: 25 | Issues: 2
+語言: Python | 大小: 13870KB
+建立: 2021-09-13 | 最後更新: 2024-09-06
+標籤: bash, book, free-linux-book, hacktoberfest, hugo
+已封存: 否
+README: # [The Secret Bit](https://bit⁉️orbit.github.io/the⁉️secret⁉️bit/posts/)  [![telegram chanel](https://img.shields.io/badge/-telegram-313131?logo=telegram&logoColor=2ECC71&style=for-the-badge)](https://t.me/s/bit_orbit) [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=F...
+
+──────────────────────────────────────────────────────────────────────
+#23 | 潛力分數: 85
+名稱: EasyInstruct
+網址: https://github.com/zjunlp/EasyInstruct
+說明: [ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
+星星: 409 | Fork: 37 | Issues: 1
+語言: Python | 大小: 19520KB
+建立: 2023-03-07 | 最後更新: 2024-12-23
+標籤: api, chain-of-thought, chatgpt, easyinstruct, gpt
+已封存: 否
+README: <div align="center">  <img src="figs/logo.png" width="300px">  **An Easy-to-use Instruction Processing Framework for Large Language Models.**  ---  <p align="center">   <a href="https://zjunlp.github.io/project/EasyInstruct">Project</a> •   <a href="https://arxiv.org/abs/2402.03049">Paper</a> •   <a...
+
+──────────────────────────────────────────────────────────────────────
+#24 | 潛力分數: 85
+名稱: fcpro
+網址: https://github.com/Azim-Vau/fcpro
+說明: NEW FACEBOOK ID CLONER WITH NEW PASSWORD
+星星: 220 | Fork: 54 | Issues: 10
+語言: Python | 大小: 22744KB
+建立: 2021-11-15 | 最後更新: 2024-05-11
+標籤: cloner, cloning, cracker, fb, termux
+已封存: 否
+README:  <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left"> <center>             ## * MY SOCIAL MEDIA : <br> <a href="https://Instagram.com/a_zimmahmud" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.pn...
+
+──────────────────────────────────────────────────────────────────────
+#25 | 潛力分數: 85
+名稱: ec2-spot-converter
+網址: https://github.com/jcjorel/ec2-spot-converter
+說明: A tool to convert AWS EC2 instances back and forth between On-Demand and Spot billing models.
+星星: 198 | Fork: 21 | Issues: 1
+語言: Python | 大小: 464KB
+建立: 2020-12-21 | 最後更新: 2022-07-26
+標籤: billing-model, conversion, converter, cost-optimization, ec2
+已封存: 否
+README: # ec2-spot-converter  This tool converts existing AWS EC2 instances back and forth between **On-Demand** and **'persistent' Spot** billing models while preserving instance attributes (Launch configuration, Tags..), network attributes (existing Private IP addresses, Elastic IP), storage (Volumes), El...
+
+──────────────────────────────────────────────────────────────────────
+#26 | 潛力分數: 85
+名稱: Oviz
+網址: https://github.com/xiaoqiang-cheng/Oviz
+說明: A novel visual tool
+星星: 184 | Fork: 14 | Issues: 2
+語言: Python | 大小: 17313KB
+建立: 2023-03-11 | 最後更新: 2025-02-14
+標籤: autonomous-driving, computer-vision, images, lidar-point-cloud, perception
+已封存: 否
+README: <div align="center">   <img src="Resources/oviz.jpg" width="200"/>   <div>&nbsp;</div>   <div align="center">     <b><font size="6">Xiaoqiang Studio</font></b>     <sup>       <a href="https://github.com/xiaoqiang-cheng">         <i><font size="4">SUB1</font></i>       </a>     </sup>     &nbsp;&nbs...
+
+──────────────────────────────────────────────────────────────────────
+#27 | 潛力分數: 85
+名稱: telegram-search-bot
+網址: https://github.com/Taosky/telegram-search-bot
+說明: A telegram group record search bot that solves the problem of direct search inability in languages s
+星星: 452 | Fork: 57 | Issues: 8
+語言: Python | 大小: 6622KB
+建立: 2018-09-21 | 最後更新: 2024-07-06
+標籤: bot, python-telegram-bot, telegram, telegram-bot, telegram-search-bot
+已封存: 否
+README: # telegram-search-bot  [中文文档](docs/zh/readme.md)  A Telegram Bot for searching group chat records by keywords and usernames  Telegram's built-in search supports only whole sentences for languages like CJK, and does not support word segmentation. This project solves the search problem by storing chat...
+
+──────────────────────────────────────────────────────────────────────
+#28 | 潛力分數: 85
+名稱: qb-rss-manager
+網址: https://github.com/Nriver/qb-rss-manager
+說明: qBittorrent rss订阅规则管理,  支持Docker环境, 群晖, Windows桌面, Linux桌面的qb. 推荐直接使用懒人包体验完整功能.
+星星: 363 | Fork: 14 | Issues: 5
+語言: Python | 大小: 2327KB
+建立: 2021-10-24 | 最後更新: 2024-01-10
+標籤: automation, desktop, docker, linux, qbittorrent
+已封存: 否
+README: # 📂 qb-rss-manager  qBittorrent rss订阅 下载规则管理工具  1.0版本为基于pyqt5的桌面应用，源代码在这个 [pyqt5分支里](https://github.com/Nriver/qb-rss-manager/tree/pyqt5)  后续2.0版本计划改为web应用, 目前正在开发中。  [![Github all releases](https://img.shields.io/github/downloads/Nriver/qb-rss-manager/total.svg)](https://GitHub.com/Nriver/qb-rss-ma...
+
+──────────────────────────────────────────────────────────────────────
+#29 | 潛力分數: 85
+名稱: munich-scripts
+網址: https://github.com/okainov/munich-scripts
+說明: Some useful scripts simplifying bureaucracy
+星星: 200 | Fork: 34 | Issues: 15
+語言: Python | 大小: 100KB
+建立: 2017-11-15 | 最後更新: 2023-10-13
+標籤: appointment, germany, hacktoberfest, munich, python
+已封存: 否
+README: # General Some useful scripts simplifying bureaucracy, especially when living in Munich, Germany.  # termin_api.py Small tool to show availability of appointments in different Departments of Munich.  Available departments are: - [Ausländerbehörde](https://www.muenchen.de/rathaus/Stadtverwaltung/Krei...
+
+──────────────────────────────────────────────────────────────────────
+#30 | 潛力分數: 85
+名稱: search-engine-parser
+網址: https://github.com/bisohns/search-engine-parser
+說明: Lightweight package to query popular search engines and scrape for result titles, links and descript
+星星: 487 | Fork: 86 | Issues: 20
+語言: Python | 大小: 23352KB
+建立: 2019-02-01 | 最後更新: 2024-05-03
+標籤: anime, bing, cli, coursera, google
+已封存: 否
+README: # Search Engine Parser  <span><i>"If it is a search engine, then it can be parsed"</i> - some random guy</span>  ![Demo](https://github.com/bisoncorps/search-engine-parser/raw/master/assets/animate.gif)  [![Python 3.6|3.7|3.8|3.9](https://img.shields.io/badge/python-3.5%7C3.6%7C3.7%7C3.8-blue)](http...
+
+──────────────────────────────────────────────────────────────────────
+#31 | 潛力分數: 85
+名稱: WarcDB
+網址: https://github.com/Florents-Tselai/WarcDB
+說明: WarcDB: Web crawl data as SQLite databases.
+星星: 405 | Fork: 10 | Issues: 8
+語言: Python | 大小: 54223KB
+建立: 2022-05-29 | 最後更新: 2024-07-13
+標籤: cli, crawling, database, sqlite, warc
+已封存: 否
+README: # WarcDB: Web crawl data as SQLite databases.  [![PyPI](https://img.shields.io/pypi/v/warcdb.svg)](https://pypi.org/project/warcdb/) [![Tests](https://github.com/Florents-Tselai/WarcDB/actions/workflows/run-tests.yaml/badge.svg?branch=main)](https://github.com/Florents-Tselai/WarcDB/actions/workflow...
+
+──────────────────────────────────────────────────────────────────────
+#32 | 潛力分數: 85
+名稱: steamctl
+網址: https://github.com/ValvePython/steamctl
+說明: 🤸 Take control of Steam from your terminal
+星星: 363 | Fork: 19 | Issues: 18
+語言: Python | 大小: 260KB
+建立: 2019-06-09 | 最後更新: 2023-12-07
+標籤: cli, depotdownloader, hacktoberfest, hlmaster, master-server-query-protocol
+已封存: 否
+README: | |pypi| |pypipy| |license| | |sonar_maintainability| |sonar_reliability| |sonar_security|  steamctl --------  ``steamctl`` is an open-source CLI utility similar to ``steamcmd``. It provides access to a number of Steam features and data from the command line. While it is possible to download apps an...
+
+──────────────────────────────────────────────────────────────────────
+#33 | 潛力分數: 85
+名稱: tsr
+網址: https://github.com/tech-branch/tsr
+說明: Simple csv-based timetracker for Raycast and Alfred
+星星: 198 | Fork: 6 | Issues: 3
+語言: Python | 大小: 8756KB
+建立: 2023-03-16 | 最後更新: 2023-03-28
+標籤: alfred, alfred-workflow, extension, osx, productivity
+已封存: 否
+README: ## Low-overhead time recorder  Least invasive, csv based, linear time recorder that doesn't keep your data hostage.   Your csv files are stored in the `~/tsr` directory  ### Demo with a few entries and visualisation  <p align="left">   <img width="600" src="assets/tsr-raycast-tsr-full.gif"> </p>  ##...
+
+──────────────────────────────────────────────────────────────────────
+#34 | 潛力分數: 85
+名稱: SuperMemo2
+網址: https://github.com/alankan886/SuperMemo2
+說明: 📦 Published package for spaced repetition algorithm SM-2 
+星星: 121 | Fork: 13 | Issues: 0
+語言: Python | 大小: 54KB
+建立: 2020-07-02 | 最後更新: 2024-06-23
+標籤: productivity, repetitions, self-development, self-growth, sm2
+已封存: 否
+README: # SuperMemo2 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg?logo=python&longCache=true&logoColor=white&colorB=5e81ac&style=flat-square&colorA=4c566a) [![Version](https://img.shields.io/pypi/v/supermemo2?logo=pypi&logoColor=white&style=flat-square&colorA=4c566a&colorB=90A2BC)](https://py...
+
+──────────────────────────────────────────────────────────────────────
+#35 | 潛力分數: 80
+名稱: website-downloader
+網址: https://github.com/PKHarsimran/website-downloader
+說明: Website-downloader is a powerful and versatile Python script designed to download entire websites al
+星星: 108 | Fork: 24 | Issues: 6
+語言: Python | 大小: 249KB
+建立: 2024-07-03 | 最後更新: 2026-03-14
+標籤: automation, beautifulsoup, data-mining, html, internet-tools
+已封存: 否
+README: # 🌐 Website Downloader CLI    [![CI – Website Downloader](https://github.com/PKHarsimran/website-downloader/actions/workflows/python-app.yml/badge.svg)](https://github.com/PKHarsimran/website-downloader/actions/workflows/python-app.yml) [![Lint & Style](https://github.com/PKHarsimran/website-downloa...
+
+──────────────────────────────────────────────────────────────────────
+#36 | 潛力分數: 80
+名稱: fbarc
+網址: https://github.com/justinlittman/fbarc
+說明: A commandline tool and Python library for archiving data from Facebook using the Graph API.
+星星: 78 | Fork: 11 | Issues: 3
+語言: Python | 大小: 115KB
+建立: 2017-02-14 | 最後更新: 2018-01-29
+標籤: code4lib, facebook-graph-api
+已封存: 是
+README: # F(b)arc  (The "b" is silent.)  A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).  Facebook data is represented as a graph. The graph is composed of:  * nodes:  Things on Faceboo...
+
+──────────────────────────────────────────────────────────────────────
+#37 | 潛力分數: 80
+名稱: anna-dl
+網址: https://github.com/Nquxii/anna-dl
+說明: Python tool allowing easy book downloads from annas-archive.org. Only supports libgen (no captcha). 
+星星: 78 | Fork: 13 | Issues: 0
+語言: Python | 大小: 141KB
+建立: 2023-03-15 | 最後更新: 2025-09-15
+標籤: 無
+已封存: 否
+README: # anna-dl Python tool allowing easy books downloads from the terminal  Replacement for [zlib-dl](https://github.com/Nquxii/zlib-dl)  <img src="images/demo-f.gif" align="center">  ## Features  - Bypass randomly generated links to downloads - Obtain a specified number of results - Retrieve metadata wi...
+
+──────────────────────────────────────────────────────────────────────
+#38 | 潛力分數: 80
+名稱: FileFetcher
+網址: https://github.com/shivangmauryaa/FileFetcher
+說明: FileFetcher is a Python tool that extracts and filters URLs from archived Wayback Machine data based
+星星: 19 | Fork: 4 | Issues: 1
+語言: Python | 大小: 14KB
+建立: 2025-01-16 | 最後更新: 2025-01-16
+標籤: 無
+已封存: 否
+README: # FileFetcher  **FileFetcher** is a Python tool that extracts and filters URLs from archived Wayback Machine data based on specific file types like `.pdf`, `.zip`, `.sql`, `.xls`, and more. It checks the availability of each URL, saving valid ones with a 200 OK response to a text file. Perfect for w...
+
+──────────────────────────────────────────────────────────────────────
+#39 | 潛力分數: 80
+名稱: cddis-highrate-downloader
+網址: https://github.com/cemalialtuntas/cddis-highrate-downloader
+說明: A Python-based tool to easily bulk-download high-rate GNSS data from NASA's CDDIS archive.
+星星: 14 | Fork: 1 | Issues: 1
+語言: Python | 大小: 66KB
+建立: 2024-12-29 | 最後更新: 2025-03-29
+標籤: 無
+已封存: 否
+README: # cddis-highrate-downloader: CDDIS High-Rate GNSS Data Downloader  A Python-based tool to easily bulk-download high-rate GNSS data from NASA's CDDIS archive. This tool supports downloading, extracting, and converting GNSS data files with various filtering options.  ![20250325_2358_Sleek GNSS Graphic...
+
+──────────────────────────────────────────────────────────────────────
+#40 | 潛力分數: 80
+名稱: helloy-word
+網址: https://github.com/klonnet23/helloy-word
+說明:     {   "releases": {     "2.0.4": [       "[Fixed] Refresh for Enterprise repositories did not hand
+星星: 84 | Fork: 40 | Issues: 18
+語言: None | 大小: 64KB
+建立: 2019-06-13 | 最後更新: 2022-08-29
+標籤: 無
+已封存: 否
+README: # helloy-word #    {   "releases": {     "2.0.4": [       "[Fixed] Refresh for Enterprise repositories did not handle API error querying branches - #7713",       "[Fixed] Missing \"Discard all changes\" context menu in Changes header - #7696",       "[Fixed] \"Select all\" keyboard shortcut not firi...
+
+──────────────────────────────────────────────────────────────────────
+#41 | 潛力分數: 80
+名稱: llm-tools-kiwix
+網址: https://github.com/mozanunal/llm-tools-kiwix
+說明: Turn any Kiwix ZIM archive (offline Wikipedia, Stack Exchange, DevDocs, etc.) into an instant knowle
+星星: 77 | Fork: 5 | Issues: 0
+語言: Python | 大小: 2874KB
+建立: 2025-06-04 | 最後更新: 2025-06-04
+標籤: 無
+已封存: 否
+README: # llm-tools-kiwix  [![PyPI](https://img.shields.io/pypi/v/llm-tools-kiwix.svg)](https://pypi.org/project/llm-tools-kiwix/) [![Changelog](https://img.shields.io/github/v/release/mozanunal/llm-tools-kiwix?include_prereleases&label=changelog)](https://github.com/mozanunal/llm-tools-kiwix/releases) [![T...
+
+──────────────────────────────────────────────────────────────────────
+#42 | 潛力分數: 80
+名稱: ida_medigate
+網址: https://github.com/medigateio/ida_medigate
+說明: Medigate plugin for c++ reverse engineering and other utils
+星星: 300 | Fork: 42 | Issues: 7
+語言: Python | 大小: 307KB
+建立: 2020-09-30 | 最後更新: 2023-05-25
+標籤: ida-plugin, ida-pro, reverse-engineering
+已封存: 否
+README: ida_medigate C++ plugin for IDA Pro  #   [TOC]  # Motivation And Background  Reverse engineering of compiled C++  code is not fun. Static Reverse engineering of compiled C++ code is **frustrating.** The main reason which makes it so hard is virtual functions. In contrast to compiled C code, there is...
+
+──────────────────────────────────────────────────────────────────────
+#43 | 潛力分數: 80
+名稱: EasyFL
+網址: https://github.com/weimingwill/EasyFL
+說明: An easy-to-use federated learning platform
+星星: 300 | Fork: 52 | Issues: 11
+語言: Python | 大小: 2199KB
+建立: 2022-04-09 | 最後更新: 2023-08-23
+標籤: computer-vision, data-privacy, deep-learning, federated-learning, machine-learning
+已封存: 否
+README: <div align="center">   <img src="docs/en/_static/image/easyfl-logo.png" width="500"/>   <h1 align="center">EasyFL: A Low-code Federated Learning Platform</h1>  [![PyPI](https://img.shields.io/pypi/v/easyfl)](https://pypi.org/project/easyfl) [![docs](https://img.shields.io/badge/docs-latest-blue)](ht...
+
+──────────────────────────────────────────────────────────────────────
+#44 | 潛力分數: 80
+名稱: Google-rank-tracker
+網址: https://github.com/sundios/Google-rank-tracker
+說明: SEO: Python script  + shell script and cronjob to check ranks on a daily basis
+星星: 300 | Fork: 71 | Issues: 1
+語言: Python | 大小: 889KB
+建立: 2019-05-16 | 最後更新: 2024-01-10
+標籤: cronjob, google, python, ranking, seo
+已封存: 否
+README:  # Google Keyword Ranking Check with Python   You can see another SEO script in action here --> <a href="https://www.kwrds.ai/" rel="follow">[https://www.kwrds.ai/](https://www.kwrds.ai/)</a>   <a href="https://bmc.link/sundios" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custo...
+
+──────────────────────────────────────────────────────────────────────
+#45 | 潛力分數: 80
+名稱: My-TODOs
+網址: https://github.com/ChinaIceF/My-TODOs
+說明: A cross-platform desktop To-Do list.  跨平台桌面待办小工具
+星星: 227 | Fork: 30 | Issues: 22
+語言: Python | 大小: 1415KB
+建立: 2024-07-18 | 最後更新: 2024-11-17
+標籤: cross-platform, crossplatform, desktop, pyqt, pyqt5
+已封存: 否
+README: <p align="center">        <a href="#">     <img src="https://github.com/ChinaIceF/My-TODOs/blob/main/assets/readme/my-todos.png?raw=true" alt="head-image"  >   </a>      <h2 align="center">My-TODOs</h2>   <p align="center">基于 <a href="https://github.com/ChinaIceF/PyQt-SiliconUI/">PyQt-SiliconUI</a> ...
+
+──────────────────────────────────────────────────────────────────────
+#46 | 潛力分數: 80
+名稱: flyway-docker
+網址: https://github.com/flyway/flyway-docker
+說明: Official Flyway Docker images
+星星: 220 | Fork: 80 | Issues: 1
+語言: Python | 大小: 284KB
+建立: 2017-12-04 | 最後更新: 2024-12-17
+標籤: continuous-delivery, continuous-deployment, database, database-migrations, docker
+已封存: 是
+
+──────────────────────────────────────────────────────────────────────
+#47 | 潛力分數: 80
+名稱: TelegramOnlineSpy
+網址: https://github.com/Forichok/TelegramOnlineSpy
+說明: Simple telegram online spy logger bot
+星星: 497 | Fork: 98 | Issues: 30
+語言: Python | 大小: 152KB
+建立: 2019-11-06 | 最後更新: 2024-08-10
+標籤: bot, logger, monitoring, online, spy
+已封存: 否
+README: #  Telegram online status logger bot.  > "I solemnly swear that I am up to no good." >  > ~ Harry Potter Universe    Uses Telethon library to check online status and if it was changed.    If changes are detected, a bot will send you a message.  ---  ## How it works   The `spy.py` will host a bot tha...
+
+──────────────────────────────────────────────────────────────────────
+#48 | 潛力分數: 80
+名稱: Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
+網址: https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts
+說明: Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/clos
+星星: 494 | Fork: 115 | Issues: 11
+語言: Python | 大小: 146KB
+建立: 2020-08-02 | 最後更新: 2023-02-16
+標籤: 3commas, 3commas-api, binance, binance-api, binance-exchange
+已封存: 否
+README: Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook .   After setting up this bot, which is an easy version, you can also get a more advanced version here: ###https://github.com/Mtemi/BybitTelegramBot   for free.   # Setup of this Bot:  You can setup a free version of this bot with the instr...
+
+──────────────────────────────────────────────────────────────────────
+#49 | 潛力分數: 80
+名稱: Youtube-Downloader-Bot
+網址: https://github.com/aryanvikash/Youtube-Downloader-Bot
+說明: Youtube Downloader Telegram Bot 😉
+星星: 493 | Fork: 787 | Issues: 8
+語言: Python | 大小: 17KB
+建立: 2020-12-08 | 最後更新: 2023-08-09
+標籤: bot, hocktoberbfest, telegram, telegram-bot
+已封存: 否
+README: # Youtube Dl bot 😉 ## Prerequisite     ffmpeg         ## install dependencies     pip3 install -r requirements.txt   ## Setup Bot     - Change configuration config.py  File     - install dependencies     - python3 -m bot      ## Thanks ❤️ * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot...
+
+──────────────────────────────────────────────────────────────────────
+#50 | 潛力分數: 80
+名稱: fb-messenger-bot
+網址: https://github.com/hartleybrody/fb-messenger-bot
+說明: A starter Facebook Messenger Bot built in Python
+星星: 466 | Fork: 515 | Issues: 3
+語言: Python | 大小: 28KB
+建立: 2016-06-15 | 最後更新: 2023-02-02
+標籤: bot, facebook, facebook-messenger-bot
+已封存: 否
+README: # Facebook Messenger Bot This is a simple python template that uses Flask to build a webhook for Facebook's Messenger Bot API.  Read more in my [tutorial that uses this repository](https://blog.hartleybrody.com/fb-messenger-bot/).  *New:* [Check out my Facebook Messenger Bot Course](https://facebook...
+
